@@ -1,0 +1,10 @@
+name: chair-12kpt
+
+category: 03001627
+split: train
+ 
+mesh_dir: data/shapenet/shape_data
+split_file: data/shapenet_split/all.csv
+log_dir: logs
+ 
+n_keypoints: 12

@@ -1,0 +1,11 @@
+subdir: test
+phase: test 
+
+split: test
+
+ckpt: net_final
+
+n_workers: 8
+batch_size: 16
+
+load_mesh: True

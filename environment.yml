@@ -1,0 +1,24 @@
+name: keypointdeformer
+channels:
+  - pytorch3d
+  - iopath
+  - fvcore
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - configargparse=1.4
+  - cudatoolkit=10.1
+  - einops=0.3.0
+  - fvcore
+  - iopath
+  - numpy
+  - pandas
+  - python=3.6
+  - pytorch=1.7
+  - pytorch3d=0.3.0
+  - pyyaml=5.4.1
+  - tensorboardx
+  - torchvision=0.8.0
+  - tqdm
+  - bottle
